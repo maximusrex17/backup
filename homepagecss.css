@@ -8,9 +8,14 @@ h1 {
 h2 {
 	color:#ff5500;background-color:#000000
 }
-a:link {
-	color:#000000
+h3 {
+	 color:#000000;
+	 background-color:#cccccc"
 }
-a:visited {
-	color:#FF5500
+a{
+	color:#ff5500;
+}
+
+a:hover{
+	background-color:#000000;
 }
