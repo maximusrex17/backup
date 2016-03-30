@@ -1,21 +1,84 @@
-body {
-
-	background-color:#cccccc;
-}
-h1 {
-	color:#ff5500; background-color: #000000
-}
-h2 {
-	color:#ff5500;background-color:#000000
-}
-h3 {
-	 color:#000000;
-	 background-color:#cccccc"
-}
-a{
-	color:#ff5500;
+* {
+	background-color: #000000;
+	color:#CCCCCC;
 }
 
-a:hover{
-	background-color:#000000;
+#l1 , #l2 {
+	border: 3px solid #800000;
+	list-style: none;
 }
+
+#education {
+	border: 3px solid #800000;
+	float: left;
+	width: 49%;
+}
+
+#employment {
+	border: 3px solid #800000;
+	float: right;
+	width: 49%;
+}
+
+#img {
+	border: 3px solid #800000;
+	float: right;
+	width: 14%;
+}
+
+.aboutme {
+	border: 3px solid #800000;
+	float: left;
+	width: 84%;
+}
+
+#construction {
+	float: left;
+	color: #CCCCCC;
+	border-radius: 25px;
+	border: 5px solid #800000;
+	width: 19%;
+	padding: 10px;
+}
+
+#gif {
+	float: right;
+	border-radius: 25px;
+	border: 5px solid #800000;
+	width: 78%;
+	text-align: center;
+}
+
+h1 , h2 {
+	text-align: center;
+	color: #CCCCCC;
+	border: 5px double #000000;
+	background-color:#800000;
+}
+
+nav {
+	text-align: center;
+}
+
+a {
+	border: 5px double black;
+	padding: 0.5px;
+	margin: 0.5px;
+	color: #cccccc;
+	background-color: #800000;
+	font-size: 18px;
+}
+
+ul li {
+	text-align:center;
+}
+
+footer {
+	text-align: center;
+	color: #CCCCCC;
+	border: 5px double #800000;
+	clear: both;
+	font-weight: bold;
+}
+
+
